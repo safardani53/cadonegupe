@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cadonegupe.pages.dev/sitemap.xml
